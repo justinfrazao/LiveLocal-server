@@ -1,0 +1,6 @@
+MongoDB Features to use
+  Supports geo-spatial queries to find all the documents near a geographic location
+  Supports text search queries using text indexes on fields to be searched
+
+Jest unit testing
+
