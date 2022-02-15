@@ -5,7 +5,7 @@ const helmet = require('helmet');
 const mongoose = require('mongoose');
 
 //middlewares and endpoints
-const middlewares = require('./middlewares');
+const middlewares = require('./middlewares/middlewares');
 // const logs = require('./api/logs');
 // const posts = require('./api/posts');
 

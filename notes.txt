@@ -4,3 +4,7 @@ MongoDB Features to use
 
 Jest unit testing
 
+Events collection
+  organizer id
+Profile collection
+  array of event id's
